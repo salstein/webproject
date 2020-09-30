@@ -10,7 +10,7 @@ body{
 
 #weatherContainer{
     background-color: rgba(0,0,0,0.25);
-    box-shadow: 1px 1px 5px black;
+    box-shadow: 1px 3px 5px black;
     padding: 70px;
     border-radius: 10px;
     position: absolute;
